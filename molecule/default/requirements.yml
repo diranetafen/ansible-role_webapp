@@ -1,4 +1,4 @@
 ---
 - role: nginx
-  src: https://github.com/diranetafen/ansible-role_nginx.git 
-  version: main 
+  src: https://github.com/diranetafen/ansible-role_nginx.git
+  version: main
