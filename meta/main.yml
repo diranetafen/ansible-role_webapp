@@ -48,7 +48,8 @@ galaxy_info:
     #       Maximum 20 tags per role.
 
 dependencies:
-  - src: git+https://github.com/diranetafen/ansible-role_nginx.git
+  - src: https://github.com/diranetafen/ansible-role_nginx.git
+    scm: git
     version: main
     name: nginx
 
